@@ -7,7 +7,7 @@ This project is simply setting up an Active Directory Domain in a Windows Server
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Microsoft Active Directory/b> 
+- <b>Microsoft Active Directory</b> 
 - <b>Powershell</b>
 - <b>Windows Server 2019l</b>
 - <b>VirtualBox</b>
