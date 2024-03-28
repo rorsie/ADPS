@@ -12,7 +12,7 @@ This project is simply setting up an Active Directory Domain in a Windows Server
 - <b>Windows Server 2019l</b>
 - <b>VirtualBox</b>
 
-<h2>Project Walk-through:</h2>
+<h2>Project Walkthrough:</h2>
 
 <p>
 <h3 align="center">Initial Setup</h3> <br/>
