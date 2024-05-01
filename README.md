@@ -1,4 +1,4 @@
-<h1>Active Directory Domain Setup with User-Adding Powershell Script</h1>
+<h1>Active Directory Domain Creation with User-Adding Powershell Script</h1>
 
 <h2>Description</h2>
 This project is simply setting up an Active Directory Domain in a Windows Server VM and then adding hundreds of test users by way of a Powershell Script. The goal is to familiarize myself with many of Active Directory's functions and apply some automation to the process.
